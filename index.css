@@ -1,0 +1,111 @@
+body{
+font-family: "Nunito", sans-serif;
+background-image: url(https://scontent.fben1-1.fna.fbcdn.net/v/t1.15752-9/132314064_391778615438256_1290744048702687767_n.jpg?_nc_cat=100&ccb=2&_nc_sid=ae9488&_nc_eui2=AeFEhBxuy2sRiwpJo1aMPa8cieRPxqWwOq2J5E_GpbA6rTqsts-ncCFawEdStlwoZaXwc8Ws7i6DWPzRSzDEc2dT&_nc_ohc=BmpqP3C2O_UAX__-9l-&_nc_ht=scontent.fben1-1.fna&oh=8edfcabfc73c0e1633ea39c05a2be9bc&oe=600C1218);
+background-size: cover;
+font-style: italic;
+}
+
+html {
+    box-sizing: border-box;
+    font-family: 'Open Sans', sans-serif;
+  }
+  
+
+.navbar-brand{
+    font-weight: 100px;
+    font-size: 3rem;
+}
+
+section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 10vh;
+    border-radius: 10px;
+    padding: 15px 25px;
+    width: 100%;
+    max-width: 960px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration: none;
+    margin-left: 150px;
+    margin-top: 120px;
+    
+}
+
+.card{
+    margin: 25px 0;
+}
+
+.card-title{
+    font-size: large;
+}
+
+#start{
+    align-items: center;
+    align-content: center;
+    display: flex;
+    flex-direction: column;
+    margin-left: 60px;
+    padding: 0;
+    margin-bottom: 10px;
+}
+
+#form-control{
+    margin-left: 500px;
+}
+
+
+.btn{
+    padding: 5px 25px;
+}
+
+.date{
+    
+}
+
+.btn1{
+    float: right;
+    padding: 0px 15px;
+    margin-left: 700px;
+    
+}
+
+
+
+.login{
+    float: right;
+    margin-left: 500px;
+    
+
+
+}
+
+.log-but{
+    
+    border: palevioletred;
+ 
+    border-radius: 15px;
+    padding: 5px 15px;
+}
+
+
+.log-but:hover{
+color: firebrick;
+}
+
+.username{
+    border: palevioletred;
+ 
+    border-radius: 15px;
+    padding: 5px 15px;
+}
+
+.passwd{
+    border: palevioletred;
+ 
+    border-radius: 15px;
+    padding: 5px 15px;
+}

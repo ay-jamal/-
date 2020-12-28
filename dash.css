@@ -1,0 +1,25 @@
+body{
+background-color: #DAF7A6;
+background-image: urlunsplash.com/photo-1557754897-ca12c5049d83?ixid=MXwxMjA3fDB8MHxzZWFyY2h8M3x8YWRtaW58ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60);
+  background-size: cover;
+display: flex;
+justify-content: center;
+align-items: center;
+min-height: 100vh;
+
+}
+.card-head{
+    border-radius: 10px;
+    padding: 15px 25px;
+    width: 100%;
+    max-width: 960px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration: none;
+    min-height: 200vh;
+}
+
+
+
